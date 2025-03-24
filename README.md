@@ -6,7 +6,7 @@
 
 - 매일 오전 10시까지 챕터 학습 정리 제출
 - 매일 오전 10시~12시 랜덤 발표자가 발표
-- 발표 후 [**`Discussions`**](https://github.com/Webebeb-Workers/HTTP-The-Definitive-Guide/discussions) 질의응답 및 논의 학습
+- 발표 후 [**`Discussions`**](https://github.com/Webebeb-Workers/This-is-Computer-Science/discussions) 질의응답 및 논의 학습
 
 ## 📅 Schedule
 
